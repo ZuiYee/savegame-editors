@@ -11,3 +11,7 @@ It can edit a few bits in the following games:
  * Pokémon Shuffle (3DS)
  * Rhythm Paradise Megamix (3DS)
  * StreetPass Mii Plaza (3DS)
+-----------------------------------
+But The number of existing items can only be modified at present.
+Update by ZuiYee:
+	Add no items to the item bar.
